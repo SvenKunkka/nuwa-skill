@@ -195,3 +195,12 @@ MIT — use it, modify it, build with it.
 MIT License © [Huashu](https://github.com/alchaincyf)
 
 </div>
+
+
+<!-- SVENKUNKKA-CONTACT:BEGIN -->
+
+**本 Fork 的维护者 / Maintainer of this fork:** [SvenKunkka](https://github.com/SvenKunkka) · [X / Twitter](https://x.com/Svenu1s5)
+
+**上游项目 / Upstream:** [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)。保留原作者署名与原许可证 / Original authorship and license notices are retained.
+
+<!-- SVENKUNKKA-CONTACT:END -->
