@@ -1,6 +1,36 @@
 <!-- SVENKUNKKA-README-NAV:BEGIN -->
-[中文项目说明](#project-overview-zh) · [English overview](#project-overview-en) · [维护者 X / Maintainer on X](https://x.com/Svenu1s5)
+[English overview](#project-overview-en) · [中文项目说明](#project-overview-zh) · [Maintainer on X / 维护者 X](https://x.com/Svenu1s5)
 <!-- SVENKUNKKA-README-NAV:END -->
+
+<!-- SVENKUNKKA-PROJECT-INFO:BEGIN -->
+
+<a id="project-overview-en"></a>
+## English project overview
+
+A fork of [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill), researching public material about a person or topic to organize mental models, decision heuristics, expression patterns, and limits into a perspective skill for Claude Code.
+
+**Getting started:** Follow upstream installation with `npx skills add alchaincyf/nuwa-skill`, then request a person or topic. See `references/extraction-framework.md` for the method and `examples/` for examples and research material.
+
+**Scope:** Outputs reflect public information available at research time; they cannot represent a person’s actual thoughts or reproduce intuition. Original author Huashu, upstream links, and MIT licensing remain credited.
+
+**本 Fork 的维护者 / Maintainer of this fork:** [SvenKunkka](https://github.com/SvenKunkka) · [X / Twitter](https://x.com/Svenu1s5)
+
+**上游项目 / Upstream:** [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)。保留原作者署名与原许可证 / Original authorship and license notices are retained.
+
+<a id="project-overview-zh"></a>
+## 中文项目说明
+
+[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) 的 Fork，以公开资料研究人物或主题，整理心智模型、决策启发式、表达方式及能力边界，生成可供 Claude Code 使用的视角 Skill。
+
+**使用入口：** 按上游说明运行 `npx skills add alchaincyf/nuwa-skill` 后提出人物或主题需求；方法见 `references/extraction-framework.md`，实例与研究材料见 `examples/`。
+
+**范围说明：** 结果是截至研究时间的公开资料提炼，不能代表人物真实思想或复制直觉。原作者花叔 Huashu、上游链接与 MIT 许可保持原归属。
+
+<!-- SVENKUNKKA-PROJECT-INFO:END -->
+
+---
+
+
 
 <div align="center">
 
@@ -338,30 +368,3 @@ Not role-playing. Cognitive architecture extraction.
 See the Chinese README above for live examples and methodology.
 
 
----
-
-<!-- SVENKUNKKA-PROJECT-INFO:BEGIN -->
-
-<a id="project-overview-zh"></a>
-## 中文项目说明
-
-[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) 的 Fork，以公开资料研究人物或主题，整理心智模型、决策启发式、表达方式及能力边界，生成可供 Claude Code 使用的视角 Skill。
-
-**使用入口：** 按上游说明运行 `npx skills add alchaincyf/nuwa-skill` 后提出人物或主题需求；方法见 `references/extraction-framework.md`，实例与研究材料见 `examples/`。
-
-**范围说明：** 结果是截至研究时间的公开资料提炼，不能代表人物真实思想或复制直觉。原作者花叔 Huashu、上游链接与 MIT 许可保持原归属。
-
-<a id="project-overview-en"></a>
-## English project overview
-
-A fork of [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill), researching public material about a person or topic to organize mental models, decision heuristics, expression patterns, and limits into a perspective skill for Claude Code.
-
-**Getting started:** Follow upstream installation with `npx skills add alchaincyf/nuwa-skill`, then request a person or topic. See `references/extraction-framework.md` for the method and `examples/` for examples and research material.
-
-**Scope:** Outputs reflect public information available at research time; they cannot represent a person’s actual thoughts or reproduce intuition. Original author Huashu, upstream links, and MIT licensing remain credited.
-
-**本 Fork 的维护者 / Maintainer of this fork:** [SvenKunkka](https://github.com/SvenKunkka) · [X / Twitter](https://x.com/Svenu1s5)
-
-**上游项目 / Upstream:** [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)。保留原作者署名与原许可证 / Original authorship and license notices are retained.
-
-<!-- SVENKUNKKA-PROJECT-INFO:END -->
